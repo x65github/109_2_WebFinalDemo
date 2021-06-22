@@ -1,7 +1,6 @@
 <?php 
     include("Functions/wordtype.php");
 ?>
-</div>
 <footer id='footer'>
             <div class="footer-wrapper">
                     <p>&copy; 網頁化小說生成網站</p>
